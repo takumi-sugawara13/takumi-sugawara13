@@ -1,3 +1,5 @@
+<img alt="SNQ-2001" src="img/header.svg" width="98.2%" height="100%">
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takumi-sugawara13&theme=2077)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=takumi-sugawara13&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
@@ -16,5 +18,3 @@
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20takumi-sugawara13)](https://github.com/takumi-sugawara13)
 
 [![github-chart](https://github-chart.vercel.app/api?user=takumi-sugawara13)](https://github.com/takumi-sugawara13/github-chart)
-
-<img alt="SNQ-2001" src="img/header.svg" width="98.2%" height="100%">
