@@ -1,4 +1,4 @@
-<p style="color: red;">私用ですので業務で開発したコードは載せておりません。</p>
+<h1>私用ですので業務で開発したコードは載せておりません。</h1>
 
 <img alt="SNQ-2001" src="img/header.svg" width="98.2%" height="100%">
 
